@@ -7,4 +7,5 @@ Installation
 2. Open Settings → Accessibility → Mouse pointer and touch → Customize pointer image
 3. Browse to the cursor files
 4. Apply
+
 That's it! You've now applied the cursors!
